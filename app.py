@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title("Test Site Mineure !")
+st.header("Ma première application !")
 
-st.write('Mineure numérique')
+st.write('Mineure numérique - Laura')
