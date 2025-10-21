@@ -1,4 +1,5 @@
 import streamlit as st
+import pandas as pd
 
 st.header("Ma première application !")
 st.write("Mineure numérique - Laura")
